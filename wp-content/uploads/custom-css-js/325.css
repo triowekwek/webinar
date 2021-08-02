@@ -1,0 +1,16 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.caldera-grid .btn {
+  background-color:#F1A632;  
+  color:white; 
+  font-size:20px;   
+  width:100%;
+}  
+
+.caldera-grid .btn:hover {
+  background-color:#34888D;
+  color:white;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
